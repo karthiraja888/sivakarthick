@@ -1,0 +1,68 @@
+body{
+    background-color:lightgreen;
+}
+h1{
+    color: darkgreen;
+    border-style: solid 5px;
+    padding: inherit;
+    text-align: center;
+}
+pre{
+    padding: 10px;
+    color: blueviolet;
+    font-family: sans-serif;
+    
+}
+
+    
+
+div.container{
+    background-color: transparent;
+    width: 500px;
+    height: auto;
+    
+}
+label{
+     width: 40%;
+    padding: 8px 15px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    display: inline-block;
+    border: solid 2px;
+    border-color: darkblue;
+}
+input[type=email],input[type=password]{
+    width: 40%;
+    padding: 8px 15px;
+    margin: 8px 0;
+    display: inline-block;
+    box-sizing: border-box;
+    border-color: darkblue 2px;
+}
+.spacelab{
+    text-align: center;
+    
+}
+.container {
+    padding: 10px;
+}
+.space{
+    border-color: blue;
+    
+}
+.margindiv{
+    margin-left: 30px;
+    
+}
+.btn{
+    font-size: 15px;
+    background-color: lightblue;
+    padding: 3px 8px 3px;
+    margin-left: 20px;
+
+    
+}
+.margin{
+    margin-left: 200px
+
+}
