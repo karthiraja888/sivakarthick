@@ -2,7 +2,6 @@
 <head> <link rel="stylesheet" href="home.css"></head>
 <body >
    <form action="eyes.php">
-    
     <h1>Eyes-Book</h1>
        
     <div class="container margindiv">
